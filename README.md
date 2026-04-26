@@ -1,4 +1,4 @@
-## Additional Experiments
+## Additional Experiments (SSD includes gating and nonlinear activation)
 
 ### Fig1: Inference time ICL performance
 
