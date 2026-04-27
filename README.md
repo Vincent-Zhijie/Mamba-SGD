@@ -19,6 +19,13 @@
 ### Fig5: Nonlinear ICL
 
 <p align="center">
-  <img src="figs/fig5.png" width="45%">
-  <img src="figs/fig6.png" width="45%">
+  <img src="figs/fig5.png" width="400">
+  <img src="figs/fig6.png" width="400">
+</p>
+
+### Fig6: SSD gate and MLP ablation
+
+<p align="center">
+  <img src="figs/fig7.png" width="400">
+  <img src="figs/fig8.png" width="400">
 </p>
